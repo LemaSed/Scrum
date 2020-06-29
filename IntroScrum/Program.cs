@@ -7,6 +7,8 @@ namespace IntroScrum
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Lalalala");
+
+			Console.ReadLine();
 		}
 	}
 }
