@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lema Sediqi\\source\\repos\\IntroScrum\\IntroScrum\\IntroScrum.csproj": {}
+    "C:\\Users\\Sebastian Mennen\\Desktop\\Academy\\Uke5\\ScrumProject\\ScrumProject\\IntroScrum\\IntroScrum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lema Sediqi\\source\\repos\\IntroScrum\\IntroScrum\\IntroScrum.csproj": {
+    "C:\\Users\\Sebastian Mennen\\Desktop\\Academy\\Uke5\\ScrumProject\\ScrumProject\\IntroScrum\\IntroScrum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lema Sediqi\\source\\repos\\IntroScrum\\IntroScrum\\IntroScrum.csproj",
+        "projectUniqueName": "C:\\Users\\Sebastian Mennen\\Desktop\\Academy\\Uke5\\ScrumProject\\ScrumProject\\IntroScrum\\IntroScrum.csproj",
         "projectName": "IntroScrum",
-        "projectPath": "C:\\Users\\Lema Sediqi\\source\\repos\\IntroScrum\\IntroScrum\\IntroScrum.csproj",
-        "packagesPath": "C:\\Users\\Lema Sediqi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lema Sediqi\\source\\repos\\IntroScrum\\IntroScrum\\obj\\",
+        "projectPath": "C:\\Users\\Sebastian Mennen\\Desktop\\Academy\\Uke5\\ScrumProject\\ScrumProject\\IntroScrum\\IntroScrum.csproj",
+        "packagesPath": "C:\\Users\\Sebastian Mennen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sebastian Mennen\\Desktop\\Academy\\Uke5\\ScrumProject\\ScrumProject\\IntroScrum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lema Sediqi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sebastian Mennen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -47,12 +47,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
