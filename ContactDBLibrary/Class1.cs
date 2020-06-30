@@ -36,8 +36,34 @@ namespace ContactDBLibrary
             Zip = zip;
         }
 
-        
+    }
+    public class ContactInformation
+    {
+        public int Id { get; set; }
+        public String Info { get; set; }
+        public int ContactId { get; set; }
+
+        public ContactInformation(int id, string info, int contactId)
+        {
+            Id = id;
+            Info = info;
+            ContactId = contactId;
+        }
+   
+    }
+    public class ContactAddress
+    {
+        public int Id { get; set; }
+        public int ContactId { get; set; }
+        public int AddressId { get; set; }
 
 
+        public ContactAddress(int id, int contactId, int addressId)
+        {
+            Id = id;
+            ContactId = contactId;
+            AddressId = addressId;
+        }
+   
     }
 }

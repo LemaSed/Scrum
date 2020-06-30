@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "doxfcKEtZniUGyirtnnEJfSImsHhcMncOZ41+p8EDGaIlfLY23QPn02xKwNxizj27Tpo4qSS7ii6Gu/lmPlNig==",
+  "dgSpecHash": "uQw4Lo4JsYSxto07zzU3HuYriMecwEgnGD5kYwUkOjTTp0otmTsz4R9Xs28I3w/Q3GmsgQtrWABssMw/5RZMdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sebastian Mennen\\Desktop\\Academy\\Uke5\\ScrumProject\\ScrumProject\\IntroScrum\\IntroScrum.csproj",
+  "projectFilePath": "C:\\Users\\Sebastian Mennen\\Desktop\\Academy\\Uke5\\ScrumProject\\IntroScrum\\IntroScrum.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sebastian Mennen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],

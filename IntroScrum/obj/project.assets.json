@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sebastian Mennen\\Desktop\\Academy\\Uke5\\ScrumProject\\ScrumProject\\IntroScrum\\IntroScrum.csproj",
+      "projectUniqueName": "C:\\Users\\Sebastian Mennen\\Desktop\\Academy\\Uke5\\ScrumProject\\IntroScrum\\IntroScrum.csproj",
       "projectName": "IntroScrum",
-      "projectPath": "C:\\Users\\Sebastian Mennen\\Desktop\\Academy\\Uke5\\ScrumProject\\ScrumProject\\IntroScrum\\IntroScrum.csproj",
+      "projectPath": "C:\\Users\\Sebastian Mennen\\Desktop\\Academy\\Uke5\\ScrumProject\\IntroScrum\\IntroScrum.csproj",
       "packagesPath": "C:\\Users\\Sebastian Mennen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sebastian Mennen\\Desktop\\Academy\\Uke5\\ScrumProject\\ScrumProject\\IntroScrum\\obj\\",
+      "outputPath": "C:\\Users\\Sebastian Mennen\\Desktop\\Academy\\Uke5\\ScrumProject\\IntroScrum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sebastian Mennen\\AppData\\Roaming\\NuGet\\NuGet.Config",
